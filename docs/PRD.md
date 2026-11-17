@@ -70,10 +70,7 @@ O diagrama PlantUML está em `docs/diagramas/casos-de-uso.puml`.
 |-----------------------------------------|----------------|------------------------------------------------------------|
 | UC01 — Cadastrar animal                 | Recepcionista  | RF01, RN02                                                 |
 | UC02 — Cadastrar veterinário            | Recepcionista  | RF02                                                       |
-| UC03 — Agendar consulta                 | Recepcionista  | RF03, RF04, RF05, RF06, RN01, RN03, RN04, RN05, RN06, RN10 |
-| UC04 — Cancelar consulta                | Recepcionista  | RF08, RN07, RN10                                           |
-| UC05 — Consultar agenda do dia          | Veterinário    | RF07, RN10                                                 |
-| UC06 — Registrar realização da consulta | Veterinário    | RF09, RN08, RN09, RN10                                     |
+| UC03 — Consultar agenda do dia          | Veterinário    | RF07, RN10                                                 |
 
 ### UC01 — Cadastrar animal
 
